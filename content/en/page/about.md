@@ -4,7 +4,7 @@ date: 2022-10-01T17:16:49-03:00
 author: ProfeNomada
 description: "Este es un posteo de about o sobre mi."
 tags: ["sobre mi", "posteo"]
-draft: false
+thumbnail: /about_imagen.jpg
 ---
 
 ## ¿Que está pasando?
